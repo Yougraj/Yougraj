@@ -15,10 +15,10 @@
 [![GitHub Yougraj](https://img.shields.io/github/followers/Yougraj?label=follow&style=social)](https://github.com/Yougraj)
 
 <a href="https://github.com/Yougraj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yougraj&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yougraj&theme=nord&hide_langs_below=1" />
 </a>
 <a href="https://github.com/Yougraj">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yougraj&show_icons=true&theme=light&line_height=27" alt="Yougraj's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yougraj&show_icons=true&theme=nord&line_height=27" alt="Yougraj's github stats"/>
 </a>
 
 
