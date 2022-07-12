@@ -1,8 +1,8 @@
 
-[![MasterHead](https://timelinecovers.pro/facebook-cover/download/html-header-code-facebook-cover.jpg)]
+[![MasterHead](cover.jpeg)]
 <h1 align="center">Hola 👋, Soy Yougraj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/7495197/media/92507bdcf4b5edfa12d5e9cc4f01b301.png">
+<img align="right" alt="Coding" width="400" src="cat.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yougraj&label=Profile%20views&color=0e75b6&style=flat" alt="yougraj" /> </p>
 
