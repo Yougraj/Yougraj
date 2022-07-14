@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/yougrajb" target="blank"><img src="https://img.shields.io/twitter/follow/yougrajb?logo=twitter&style=for-the-badge" alt="yougrajb" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **some fun projects**
 
 - 🌱 I’m currently learning **full stack developement**
 
