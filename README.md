@@ -1,6 +1,6 @@
 ![MasterHead](cover.jpeg)
-<h1 align="center">Hola 👋, Soy Yougraj</h1>
-<h3 align="center">Un apasionado desarrollador front-end de la India </h3>
+<h1 align="center">こんにちは👋、私はヨグラージです</h1>
+<h3 align="center">インド出身の情熱的なフロントエンド開発者</h3>
 <img align="right" alt="Coding" width="400" src="cat.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yougraj&label=Profile%20views&color=0e75b6&style=flat" alt="yougraj" /> </p>
